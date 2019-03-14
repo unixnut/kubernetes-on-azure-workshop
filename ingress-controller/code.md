@@ -65,5 +65,5 @@ spec:
           serviceName: webapp
           servicePort: 80
         path: /
-EOF        
+EOF
 ```
